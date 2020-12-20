@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: yellow;
+}
+#Homepic{
+    width: 400px;
+    height: 400px;
+    border-radius: 50px;
+}
+#jj{
+    text-align: center;
+    background-color: red;
+}
+img{
+    width: 310px;
+    height: 360px;
+    border-radius: 50px;
+}
